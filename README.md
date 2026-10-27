@@ -144,4 +144,4 @@ Acredito que cada projeto é uma oportunidade de aprender, evoluir e criar solu�
 
   <sub>Desenvolvido com dedicação por Thayla Ribeiro 💙</sub>
 
-</div>
+</d
