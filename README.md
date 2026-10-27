@@ -1,132 +1,228 @@
-<div align="center">
-
-  <img width="100%" height="180"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:7C3AED&height=180&section=header&text=THAYLA%20RIBEIRO&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedora%20de%20Sistemas&descAlignY=62&descSize=17"/>
-
-  <h3>👩🏻‍💻 Desenvolvedora Web & Mobile</h3>
-
-  <p>
-    Transformando ideias em soluções digitais.
-  </p>
-
-  <img src="https://img.shields.io/badge/Desenvolvimento-Web-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Desenvolvimento-Mobile-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Internet%20das%20Coisas-IoT-0891B2?style=flat-square"/>
-
-</div>
-
----
-
-## 👩🏻‍💻 Sobre mim
-
-Olá! Sou **Thayla Ribeiro**, estudante e desenvolvedora em formação, apaixonada por tecnologia, programação e inovação.
-
-Meu foco é desenvolver aplicações web e mobile, explorar novas tecnologias e transformar ideias em soluções funcionais.
-
-- 💻 Desenvolvimento de sites e sistemas.
-- 📱 Aplicações mobile com Flutter e Dart.
-- ⚙️ Desenvolvimento com PHP e Laravel.
-- 🗄️ Banco de dados MySQL.
-- 🌐 Interesse em IoT e sistemas inteligentes.
-- 🚀 Sempre desenvolvendo projetos e aprimorando minhas habilidades.
-
----
-
-## 🛠️ Linguagens e tecnologias
+<!--
+  THAYLA RIBEIRO | DEVELOPER PROFILE
+  Visual: Dark Premium / Electric Blue / Violet
+  Arquivo: README.md
+  IMPORTANTE: substitua SEU-USUARIO pelo seu username do GitHub.
+-->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,flutter,dart,mysql,git,github,vscode&theme=dark&perline=6" alt="Tecnologias utilizadas"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3"/>
 
-</div>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=THAYLA+RIBEIRO;SOFTWARE+DEVELOPER;BUILDING+DIGITAL+EXPERIENCES" alt="Apresentação"/>
 
-## 📊 Estatísticas do GitHub
+# Thayla Ribeiro
 
-<div align="center">
+### `Software Developer` · Web · Mobile · IoT
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
+<p>
+  Desenvolvendo soluções digitais com propósito, tecnologia e criatividade.
+</p>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas"/>
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📦 GeoSync
-
-**Rastreamento Inteligente de Mercadorias**
-
-Sistema de monitoramento logístico para acompanhar mercadorias durante o transporte rodoviário.
-
-- 📍 Rastreamento de cargas.
-- 🚚 Acompanhamento de entregas.
-- ⚠️ Alertas de ocorrências.
-- 💬 Comunicação entre empresa e motorista.
-- 🌐 Aplicação de conceitos de IoT.
-
-**Tecnologias:** Laravel, PHP, Flutter, Dart e MySQL.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 SafeFactory
-
-**Segurança Industrial com IoT**
-
-Projeto voltado ao monitoramento de condições de segurança em ambientes industriais.
-
-- 📡 Identificação por RFID.
-- 🌫️ Monitoramento de gases.
-- 🚨 Alertas visuais e sonoros.
-- 🔒 Verificação das condições do ambiente.
-
-**Tecnologias:** ESP32, Arduino, RFID e sensores.
-
-</td>
-  </tr>
-</table>
-
----
-
-## 🎯 Objetivo profissional
-
-Busco evoluir constantemente como desenvolvedora, aprofundar meus conhecimentos em programação e participar de projetos que conectem tecnologia, criatividade e inovação.
-
-Tenho interesse em desenvolvimento web, aplicações mobile, automação e sistemas inteligentes.
-
-Acredito que cada projeto é uma oportunidade de aprender, superar desafios e criar soluções melhores.
-
----
-
-## 📫 Contato
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:SEU-EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0D1117&height=100&section=footer"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-161B22?style=flat-square&labelColor=161B22&color=2563EB"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-161B22?style=flat-square&labelColor=161B22&color=7C3AED"/>
 
-**Thayla Ribeiro** · Desenvolvedora de Sistemas 💙
+</div>
+
+---
+
+## `01` — About me
+
+Sou estudante e desenvolvedora em formação, interessada em criar aplicações que combinem **funcionalidade, boa arquitetura e experiência do usuário**.
+
+Trabalho com desenvolvimento web e mobile, explorando diferentes tecnologias para transformar ideias em sistemas reais. Também desenvolvo projetos que envolvem automação, integração entre hardware e software e Internet das Coisas.
+
+```javascript
+const thayla = {
+    area: "Software Development",
+    interests: [
+        "Web Development",
+        "Mobile Applications",
+        "Internet of Things",
+        "Software Engineering"
+    ],
+    technologies: {
+        frontend: ["HTML", "CSS", "JavaScript", "React"],
+        backend: ["PHP", "Laravel"],
+        mobile: ["Flutter", "Dart"],
+        database: ["MySQL"],
+        tools: ["Git", "GitHub", "VS Code"]
+    },
+    mindset: "Learn. Build. Improve."
+};
+```
+
+---
+
+## `02` — Tech stack
+
+<div align="center">
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
+
+<br/><br/>
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend"/>
+
+<br/><br/>
+
+### MOBILE DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile"/>
+
+<br/><br/>
+
+### DATABASE & TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Ferramentas"/>
+
+<br/><br/>
+
+### INTERNET OF THINGS
+
+<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=internetofthings&logoColor=58A6FF"/>
+
+</div>
+
+---
+
+## `03` — Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ GeoSync
+
+**Intelligent Cargo Tracking**
+
+Sistema de monitoramento logístico para o transporte rodoviário, com foco na visibilidade das operações, acompanhamento de mercadorias e identificação de ocorrências.
+
+**Core features**
+
+- Monitoramento de entregas.
+- Rastreamento de mercadorias.
+- Alertas de ocorrências logísticas.
+- Comunicação entre empresa e motorista.
+- Aplicação de conceitos de IoT.
+
+**Stack**
+
+`Laravel` `PHP` `Flutter` `Dart` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SafeFactory
+
+**Industrial Safety · IoT**
+
+Projeto de segurança industrial que combina identificação por RFID e sensores de gases para auxiliar no monitoramento das condições ambientais.
+
+**Core features**
+
+- Identificação de usuários por RFID.
+- Monitoramento por sensores.
+- Alertas visuais e sonoros.
+- Integração entre hardware e software.
+
+**Stack**
+
+`ESP32` `Arduino` `RFID` `Sensors`
+
+</td>
+</tr>
+</table>
+
+> Os projetos apresentados fazem parte da minha experiência acadêmica e prática. Suas funcionalidades e tecnologias podem evoluir durante o desenvolvimento.
+
+---
+
+## `04` — GitHub analytics
+
+<div align="center">
+
+<a href="https://github.com/SEU-USUARIO">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/SEU-USUARIO">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
+</a>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
+
+</div>
+
+---
+
+## `05` — Development principles
+
+<div align="center">
+
+| PRINCIPLE | APPROACH |
+|:---|:---|
+| `01` · Code | Código organizado e de fácil manutenção |
+| `02` · Design | Interfaces intuitivas e consistentes |
+| `03` · Learning | Evolução técnica contínua |
+| `04` · Innovation | Tecnologia aplicada a problemas reais |
+
+</div>
+
+---
+
+## `06` — Let's connect
+
+<div align="center">
+
+Se você se interessa por tecnologia, desenvolvimento de software e novas ideias, vamos nos conectar.
+
+<br/>
+
+<a href="https://github.com/SEU-USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-161B22?style=for-the-badge&logo=instagram&logoColor=BC8CFF"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3"/>
+
+<br/>
+
+<sub>THAYLA RIBEIRO · SOFTWARE DEVELOPMENT</sub>
+
+<br/>
+
+<sub><code>Learn continuously. Build intelligently. Create impact.</code></sub>
 
 </div>
