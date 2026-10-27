@@ -1,26 +1,17 @@
 <div align="center">
 
-# 👩🏻‍💻 Thayla Ribeiro
+  <img width="100%" height="180"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1D4ED8,100:7C3AED&height=180&section=header&text=THAYLA%20RIBEIRO&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedora%20de%20Sistemas&descAlignY=62&descSize=17"/>
 
-### Desenvolvedora de Sistemas
+  <h3>👩🏻‍💻 Desenvolvedora Web & Mobile</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Desenvolvimento-Full%20Stack-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Mobile-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+  <p>
+    Transformando ideias em soluções digitais.
+  </p>
 
-<p>
-  Transformando ideias em soluções digitais através da tecnologia, criatividade e inovação.
-</p>
-
-<p>
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Mobile-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Internet%20das%20Coisas-IoT-0891B2?style=flat-square"/>
 
 </div>
 
@@ -28,18 +19,16 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Olá! Meu nome é **Thayla Ribeiro** e sou estudante e desenvolvedora em formação, apaixonada por programação e desenvolvimento de sistemas.
+Olá! Sou **Thayla Ribeiro**, estudante e desenvolvedora em formação, apaixonada por tecnologia, programação e inovação.
 
-Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web e mobile, criando projetos que conectam tecnologia, funcionalidade e experiência do usuário.
-
-Gosto de transformar ideias em aplicações reais, explorar novas ferramentas e desenvolver soluções que ajudem a resolver problemas do dia a dia.
+Meu foco é desenvolver aplicações web e mobile, explorar novas tecnologias e transformar ideias em soluções funcionais.
 
 - 💻 Desenvolvimento de sites e sistemas.
-- 📱 Desenvolvimento de aplicações mobile.
-- 🗄️ Modelagem e gerenciamento de bancos de dados.
-- 🚀 Projetos acadêmicos e pessoais.
-- 🌐 Interesse em IoT, automação e sistemas inteligentes.
-- 📚 Aprendizado contínuo em tecnologia.
+- 📱 Aplicações mobile com Flutter e Dart.
+- ⚙️ Desenvolvimento com PHP e Laravel.
+- 🗄️ Banco de dados MySQL.
+- 🌐 Interesse em IoT e sistemas inteligentes.
+- 🚀 Sempre desenvolvendo projetos e aprimorando minhas habilidades.
 
 ---
 
@@ -47,22 +36,7 @@ Gosto de transformar ideias em aplicações reais, explorar novas ferramentas e 
 
 <div align="center">
 
-### Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react&theme=dark" />
-
-### Desenvolvimento Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
-
-### Banco de Dados e Ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
-
-### IoT e Hardware
-
-<img src="https://img.shields.io/badge/IoT-Internet%20das%20Coisas-2563EB?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-Microcontroladores-111827?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,flutter,dart,mysql,git,github,vscode&theme=dark&perline=6" alt="Tecnologias utilizadas"/>
 
 </div>
 
@@ -72,11 +46,9 @@ Gosto de transformar ideias em aplicações reais, explorar novas ferramentas e 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<br><br>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas"/>
 
 </div>
 
@@ -85,54 +57,52 @@ Gosto de transformar ideias em aplicações reais, explorar novas ferramentas e 
 ## 🚀 Projetos em destaque
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-<h3>📦 GeoSync</h3>
+### 📦 GeoSync
 
 **Rastreamento Inteligente de Mercadorias**
 
-Sistema de monitoramento logístico desenvolvido para acompanhar mercadorias durante o transporte rodoviário.
+Sistema de monitoramento logístico para acompanhar mercadorias durante o transporte rodoviário.
 
-**Funcionalidades:**
-- 📍 Rastreamento de mercadorias.
+- 📍 Rastreamento de cargas.
 - 🚚 Acompanhamento de entregas.
 - ⚠️ Alertas de ocorrências.
 - 💬 Comunicação entre empresa e motorista.
 - 🌐 Aplicação de conceitos de IoT.
 
-**Tecnologias:** PHP, Laravel, Flutter, Dart e MySQL.
+**Tecnologias:** Laravel, PHP, Flutter, Dart e MySQL.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🏭 SafeFactory</h3>
+### 🏭 SafeFactory
 
 **Segurança Industrial com IoT**
 
-Projeto voltado à segurança em ambientes industriais, combinando identificação de usuários e monitoramento de gases.
+Projeto voltado ao monitoramento de condições de segurança em ambientes industriais.
 
-**Funcionalidades:**
 - 📡 Identificação por RFID.
-- 🌫️ Monitoramento por sensores.
+- 🌫️ Monitoramento de gases.
 - 🚨 Alertas visuais e sonoros.
 - 🔒 Verificação das condições do ambiente.
 
 **Tecnologias:** ESP32, Arduino, RFID e sensores.
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-## 🎯 Objetivos profissionais
+## 🎯 Objetivo profissional
 
-Meu objetivo é evoluir constantemente como desenvolvedora, ampliar meus conhecimentos e participar de projetos que proporcionem experiências práticas e novos desafios.
+Busco evoluir constantemente como desenvolvedora, aprofundar meus conhecimentos em programação e participar de projetos que conectem tecnologia, criatividade e inovação.
 
-Tenho interesse em desenvolvimento web, aplicações mobile, sistemas inteligentes, automação e Internet das Coisas.
+Tenho interesse em desenvolvimento web, aplicações mobile, automação e sistemas inteligentes.
 
-Busco desenvolver soluções que unam qualidade de código, organização, usabilidade e inovação.
+Acredito que cada projeto é uma oportunidade de aprender, superar desafios e criar soluções melhores.
 
 ---
 
@@ -141,20 +111,22 @@ Busco desenvolver soluções que unam qualidade de código, organização, usabi
 <div align="center">
 
 <a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=100&section=footer" />
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0D1117&height=100&section=footer"/>
 
-**Thayla Ribeiro**  
-*Transformando ideias em soluções digitais.* 💙
+**Thayla Ribeiro** · Desenvolvedora de Sistemas 💙
 
 </div>
