@@ -1,182 +1,160 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=200&section=header&text=THAYLA%20RIBEIRO&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedora%20de%20Sistemas&descSize=18&descAlignY=58&animation=fadeIn" />
+# 👩🏻‍💻 Thayla Ribeiro
 
-<br>
+### Desenvolvedora de Sistemas
 
-<a href="https://github.com/SEU-USUARIO">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Desenvolvimento+Web+%26+Mobile;Transformando+ideias+em+solu%C3%A7%C3%B5es;Tecnologia+%7C+Inova%C3%A7%C3%A3o+%7C+Criatividade" alt="Apresentação animada"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Full%20Stack-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Web%20%26%20Mobile-7C3AED?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-<br><br>
+<p>
+  Transformando ideias em soluções digitais através da tecnologia, criatividade e inovação.
+</p>
 
-<a href="https://github.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/Desenvolvimento-Web-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Desenvolvimento-Mobile-7C3AED?style=for-the-badge&logo=flutter&logoColor=white"/>
+<p>
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<br>
-
 ---
 
-<h2 align="left">👩🏻‍💻 Sobre mim</h2>
+## 👩🏻‍💻 Sobre mim
 
-Olá! Sou **Thayla Ribeiro**, estudante e desenvolvedora em formação, apaixonada por tecnologia, programação e criação de soluções digitais.
+Olá! Meu nome é **Thayla Ribeiro** e sou estudante e desenvolvedora em formação, apaixonada por programação e desenvolvimento de sistemas.
 
-Meu objetivo é transformar ideias em aplicações funcionais, combinando código, criatividade e uma boa experiência para o usuário.
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web e mobile, criando projetos que conectam tecnologia, funcionalidade e experiência do usuário.
 
-- 💻 Desenvolvimento de sites e sistemas web.
+Gosto de transformar ideias em aplicações reais, explorar novas ferramentas e desenvolver soluções que ajudem a resolver problemas do dia a dia.
+
+- 💻 Desenvolvimento de sites e sistemas.
 - 📱 Desenvolvimento de aplicações mobile.
-- 🗄️ Criação e gerenciamento de bancos de dados.
-- 🚀 Desenvolvimento de projetos acadêmicos e pessoais.
+- 🗄️ Modelagem e gerenciamento de bancos de dados.
+- 🚀 Projetos acadêmicos e pessoais.
 - 🌐 Interesse em IoT, automação e sistemas inteligentes.
-- 📚 Sempre aprendendo, evoluindo e explorando novas tecnologias.
-
-<br>
-
-<h2>⚡ Tecnologias e ferramentas</h2>
-
-<h3>🌐 Desenvolvimento Web</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react&theme=dark" alt="Tecnologias web"/>
-</p>
-
-<h3>📱 Desenvolvimento Mobile</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Tecnologias mobile"/>
-</p>
-
-<h3>🗄️ Banco de Dados e Ferramentas</h3>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Banco de dados e ferramentas"/>
-</p>
-
-<br>
+- 📚 Aprendizado contínuo em tecnologia.
 
 ---
 
-<h2>🚀 Projetos em destaque</h2>
+## 🛠️ Linguagens e tecnologias
+
+<div align="center">
+
+### Desenvolvimento Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react&theme=dark" />
+
+### Desenvolvimento Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
+
+### Banco de Dados e Ferramentas
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+
+### IoT e Hardware
+
+<img src="https://img.shields.io/badge/IoT-Internet%20das%20Coisas-2563EB?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-Microcontroladores-111827?style=for-the-badge&logo=espressif&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas" />
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📦 GeoSync</h3>
+<h3>📦 GeoSync</h3>
 
-<p align="center">
-<strong>Rastreamento Inteligente de Mercadorias</strong>
-</p>
+**Rastreamento Inteligente de Mercadorias**
 
-<p>
-Sistema desenvolvido para aprimorar o monitoramento logístico de mercadorias durante o transporte rodoviário, facilitando o acompanhamento das entregas e a identificação de situações de risco.
-</p>
+Sistema de monitoramento logístico desenvolvido para acompanhar mercadorias durante o transporte rodoviário.
 
-<strong>Principais funcionalidades:</strong>
-
+**Funcionalidades:**
 - 📍 Rastreamento de mercadorias.
-- 🚚 Monitoramento de entregas.
-- ⚠️ Alertas de ocorrências logísticas.
+- 🚚 Acompanhamento de entregas.
+- ⚠️ Alertas de ocorrências.
 - 💬 Comunicação entre empresa e motorista.
 - 🌐 Aplicação de conceitos de IoT.
 
-<p>
-<strong>Tecnologias:</strong><br>
-PHP · Laravel · Flutter · Dart · MySQL
-</p>
+**Tecnologias:** PHP, Laravel, Flutter, Dart e MySQL.
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🏭 SafeFactory</h3>
+<h3>🏭 SafeFactory</h3>
 
-<p align="center">
-<strong>Segurança Industrial com IoT</strong>
-</p>
+**Segurança Industrial com IoT**
 
-<p>
-Projeto de automação voltado à segurança industrial, combinando identificação por RFID e monitoramento de gases para auxiliar na identificação de ambientes potencialmente perigosos.
-</p>
+Projeto voltado à segurança em ambientes industriais, combinando identificação de usuários e monitoramento de gases.
 
-<strong>Principais funcionalidades:</strong>
-
+**Funcionalidades:**
 - 📡 Identificação por RFID.
 - 🌫️ Monitoramento por sensores.
 - 🚨 Alertas visuais e sonoros.
-- 🔒 Verificação das condições de segurança.
-- ⚙️ Integração entre hardware e software.
+- 🔒 Verificação das condições do ambiente.
 
-<p>
-<strong>Tecnologias:</strong><br>
-IoT · ESP32/Arduino · RFID · Sensores
-</p>
+**Tecnologias:** ESP32, Arduino, RFID e sensores.
 
 </td>
 </tr>
 </table>
 
-<br>
+---
+
+## 🎯 Objetivos profissionais
+
+Meu objetivo é evoluir constantemente como desenvolvedora, ampliar meus conhecimentos e participar de projetos que proporcionem experiências práticas e novos desafios.
+
+Tenho interesse em desenvolvimento web, aplicações mobile, sistemas inteligentes, automação e Internet das Coisas.
+
+Busco desenvolver soluções que unam qualidade de código, organização, usabilidade e inovação.
 
 ---
 
-<h2>📈 Atividade no GitHub</h2>
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/Explorar%20meus%20reposit%C3%B3rios-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/SEU-USUARIO?tab=stars">
-<img src="https://img.shields.io/badge/Meus%20projetos%20favoritos-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projetos favoritos"/>
-</a>
-
-</div>
-
-<br>
-
----
-
-<h2>🎯 Objetivo profissional</h2>
-
-Busco aprimorar continuamente minhas habilidades em desenvolvimento de software, participar de novos projetos e criar soluções tecnológicas que unam eficiência, inovação e acessibilidade.
-
-Tenho interesse especial em desenvolvimento web e mobile, sistemas inteligentes, automação e Internet das Coisas (IoT).
-
-Acredito que cada projeto representa uma oportunidade de aprender, superar desafios e transformar conhecimento em resultados.
-
-<br>
-
----
-
-<h2>📬 Vamos nos conectar?</h2>
+## 📫 Contato
 
 <div align="center">
 
 <a href="https://github.com/SEU-USUARIO">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:020617&height=120&section=footer" alt="Rodapé decorativo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=100&section=footer" />
 
-<strong>Thayla Ribeiro</strong><br>
-<sub>Transformando ideias em soluções digitais. 💙</sub>
+**Thayla Ribeiro**  
+*Transformando ideias em soluções digitais.* 💙
 
 </div>
