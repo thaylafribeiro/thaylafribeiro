@@ -1,8 +1,7 @@
+
 <!--
   THAYLA RIBEIRO | DEVELOPER PROFILE
-  Visual: Dark Premium / Electric Blue / Violet
-  Arquivo: README.md
-  IMPORTANTE: substitua SEU-USUARIO pelo seu username do GitHub.
+  Dark Premium | Blue | Violet
 -->
 
 <div align="center">
@@ -23,14 +22,8 @@
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="mailto:SEU-EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="https://wa.me/5519994187179" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Entre em contato pelo WhatsApp"/>
 </a>
 
 <br/><br/>
@@ -51,12 +44,14 @@ Trabalho com desenvolvimento web e mobile, explorando diferentes tecnologias par
 ```javascript
 const thayla = {
     area: "Software Development",
+
     interests: [
         "Web Development",
         "Mobile Applications",
         "Internet of Things",
         "Software Engineering"
     ],
+
     technologies: {
         frontend: ["HTML", "CSS", "JavaScript", "React"],
         backend: ["PHP", "Laravel"],
@@ -64,6 +59,7 @@ const thayla = {
         database: ["MySQL"],
         tools: ["Git", "GitHub", "VS Code"]
     },
+
     mindset: "Learn. Build. Improve."
 };
 ```
@@ -195,22 +191,22 @@ Projeto de segurança industrial que combina identificação por RFID e sensores
 
 ---
 
-## `06` — Let's connect
+## `06` — Vamos conversar?
 
 <div align="center">
 
-Se você se interessa por tecnologia, desenvolvimento de software e novas ideias, vamos nos conectar.
+Tem uma ideia, uma oportunidade ou quer conversar sobre tecnologia e desenvolvimento?
 
 <br/>
 
-<a href="https://github.com/SEU-USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://wa.me/5519994187179" target="_blank">
+  <img src="https://img.shields.io/badge/CHAME%20NO%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale comigo pelo WhatsApp"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-161B22?style=for-the-badge&logo=instagram&logoColor=BC8CFF"/>
+
+<br/><br/>
+
+<a href="https://wa.me/5519994187179" target="_blank">
+  <img src="https://img.shields.io/badge/INICIAR%20CONVERSA-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Iniciar conversa"/>
 </a>
 
 <br/><br/>
@@ -219,10 +215,12 @@ Se você se interessa por tecnologia, desenvolvimento de software e novas ideias
 
 <br/>
 
-<sub>THAYLA RIBEIRO · SOFTWARE DEVELOPMENT</sub>
+<strong>THAYLA RIBEIRO</strong>
 
 <br/>
 
 <sub><code>Learn continuously. Build intelligently. Create impact.</code></sub>
 
 </div>
+
+
