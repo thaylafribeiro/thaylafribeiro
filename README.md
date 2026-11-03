@@ -15,7 +15,7 @@
 
 ## 00 // RESUMO RÁPIDO
 
-> Para recrutadores com 30 segundos: sou estudante de Desenvolvimento de Sistemas no SENAI, com foco em desenvolvimento Web, Mobile e IoT. Tenho experiência prática em projetos utilizando Laravel, PHP, MySQL, Flutter e Dart, além de integração entre hardware e software com ESP32 e RFID. Busco uma oportunidade de estágio para desenvolver minhas habilidades e contribuir com soluções tecnológicas.
+> Para recrutadores com 30 segundos: sou estudante de Desenvolvimento de Sistemas no SENAI, com foco em desenvolvimento Web, Mobile e IoT. Tenho experiência prática em projetos utilizando Laravel, PHP, MySQL, Flutter e Dart, além de integração entre hardware e software com ESP32 e RFID. Busco uma oportunidade de trabalho e estágio para desenvolver minhas habilidades e contribuir com soluções tecnológicas.
 
 <div align="center">
 
