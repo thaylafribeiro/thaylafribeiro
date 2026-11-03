@@ -36,7 +36,7 @@
 │                                                              │
 │  [OK] Full stack: API Laravel + app Flutter + painel web     │
 │  [OK] IoT: ESP32 + RFID integrado a uma API REST             │
-│  [OK] Projeto real de ponta a ponta (TCC 📦GeoSync )            │
+│  [OK] Projeto real de ponta a ponta (TCC 📦GeoSync )         
 │  [OK] Resolve problemas sozinha e aprende rapido             │
 │  [OK] Disponivel: estagio remoto ou presencial (Tambau-SP)   │
 │                                                              │
