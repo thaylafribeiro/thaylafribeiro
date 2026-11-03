@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=160&section=header&text=Thayla%20Ribeiro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20IoT&descAlignY=60&descSize=16" alt="Thayla Ribeiro"/>
 
@@ -54,6 +54,11 @@ Sistema de monitoramento logístico para transporte rodoviário, com foco em vis
 
 **Funcionalidades**
 - Monitoramento de entregas
+- **Painel visual de rastreamento em tempo real**
+- **Mapa interativo com caminhão percorrendo rota animada**
+- **Visualização da localização e atualização do GPS**
+- **Indicadores de status da carga e previsão de entrega**
+- **Monitoramento visual da segurança da rota**
 - Rastreamento de mercadorias
 - Alertas de ocorrências logísticas
 - Comunicação entre empresa e motorista
