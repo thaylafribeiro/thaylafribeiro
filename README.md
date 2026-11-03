@@ -15,13 +15,13 @@
 
 ## 00 // RESUMO RÁPIDO
 
-> Para recrutadores com 30 segundos: sou estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedora full stack. Construí sozinho um sistema completo com API Laravel, app Flutter e integração IoT com ESP32 + RFID. Estou procurando estágio, remoto ou presencial em Tambaú-SP.
+> Para recrutadores com 30 segundos: sou estudante de Desenvolvimento de Sistemas no SENAI, com foco em desenvolvimento Web, Mobile e IoT. Tenho experiência prática em projetos utilizando Laravel, PHP, MySQL, Flutter e Dart, além de integração entre hardware e software com ESP32 e RFID. Busco uma oportunidade de estágio para desenvolver minhas habilidades e contribuir com soluções tecnológicas.
 
 <div align="center">
 
-| 🎯 Vaga buscada | 🧠 Stack principal | 📍 Modalidade | 🎓 Formação |
+| 🎯 Objetivo | 🧠 Tecnologias | 📍 Localidade | 🎓 Formação |
 |:---:|:---:|:---:|:---:|
-| Estágio em Desenvolvimento | Laravel · Flutter · MySQL | Remoto ou Tambaú-SP | ADS · SENAI |
+| Estágio em Desenvolvimento | Laravel · Flutter · PHP · MySQL | Tambaú-SP ou remoto | Desenvolvimento de Sistemas · SENAI |
 
 </div>
 
@@ -32,27 +32,24 @@
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│       recruiter@github:~$ ./hire --candidate arth ur         │
+│       recruiter@github:~$ ./hire --candidate thayla          │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [OK] Full stack: API Laravel + app Flutter + painel web     │
-│  [OK] IoT: ESP32 + RFID integrado a uma API REST              │
-│  [OK] Projeto real de ponta a ponta (TCC GeoSync)             │
-│  [OK] Resolve problemas sozinho e aprende rápido             │
-│  [OK] Disponível: estágio remoto ou presencial (Tambaú-SP)    │
+│  [OK] Desenvolvimento Web: HTML, CSS, JavaScript e Laravel   │
+│  [OK] Backend: PHP, Laravel e MySQL                           │
+│  [OK] Mobile: Flutter e Dart                                  │
+│  [OK] IoT: ESP32, RFID e integração hardware/software         │
+│  [OK] Projetos práticos: GeoSync e SafeFactory                │
+│  [OK] Aprendizado contínuo e desenvolvimento de soluções      │
 │                                                              │
-│  > RESULT: MATCH FOUND                                       │
-│  > NEXT STEP: entrar em contato -> secao 07 // LET'S TALK    │
+│  > RESULT: CANDIDATE FOUND                                   │
+│  > STATUS: OPEN TO INTERNSHIP OPPORTUNITIES                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
-
-<br/>
-
----
 
 ## 👩‍💻 Sobre mim
 
