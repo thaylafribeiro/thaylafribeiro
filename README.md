@@ -13,6 +13,47 @@
 
 <br/>
 
+## 00 // RESUMO RÁPIDO
+
+> Para recrutadores com 30 segundos: sou estudante de Desenvolvimento de Sistemas no SENAI e desenvolvedora full stack. Construí sozinho um sistema completo com API Laravel, app Flutter e integração IoT com ESP32 + RFID. Estou procurando estágio, remoto ou presencial em Tambaú-SP.
+
+<div align="center">
+
+| 🎯 Vaga buscada | 🧠 Stack principal | 📍 Modalidade | 🎓 Formação |
+|:---:|:---:|:---:|:---:|
+| Estágio em Desenvolvimento | Laravel · Flutter · MySQL | Remoto ou Tambaú-SP | ADS · SENAI |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│       recruiter@github:~$ ./hire --candidate arth ur         │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [OK] Full stack: API Laravel + app Flutter + painel web     │
+│  [OK] IoT: ESP32 + RFID integrado a uma API REST              │
+│  [OK] Projeto real de ponta a ponta (TCC GeoSync)             │
+│  [OK] Resolve problemas sozinho e aprende rápido             │
+│  [OK] Disponível: estágio remoto ou presencial (Tambaú-SP)    │
+│                                                              │
+│  > RESULT: MATCH FOUND                                       │
+│  > NEXT STEP: entrar em contato -> secao 07 // LET'S TALK    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+---
+
 ## 👩‍💻 Sobre mim
 
 Sou **estudante e desenvolvedora em formação**, com interesse em criar aplicações que unam **funcionalidade, boa arquitetura e uma ótima experiência do usuário**.
