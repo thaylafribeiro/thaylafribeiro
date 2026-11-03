@@ -31,20 +31,17 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│       recruiter@github:~$ ./hire --candidate thayla          │
-│                                                              │
+│        recruiter@github:~$ ./hire --candidate thayla         │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [OK] Desenvolvimento Web: HTML, CSS, JavaScript e Laravel   │
-│  [OK] Backend: PHP, Laravel e MySQL                           │
-│  [OK] Mobile: Flutter e Dart                                  │
-│  [OK] IoT: ESP32, RFID e integração hardware/software         │
-│  [OK] Projetos práticos: GeoSync e SafeFactory                │
-│  [OK] Aprendizado contínuo e desenvolvimento de soluções      │
+│  [OK] Full stack: API Laravel + app Flutter + painel web     │
+│  [OK] IoT: ESP32 + RFID integrado a uma API REST             │
+│  [OK] Projeto real de ponta a ponta (TCC 📦GeoSync )            │
+│  [OK] Resolve problemas sozinha e aprende rapido             │
+│  [OK] Disponivel: estagio remoto ou presencial (Tambau-SP)   │
 │                                                              │
-│  > RESULT: CANDIDATE FOUND                                   │
-│  > STATUS: OPEN TO INTERNSHIP OPPORTUNITIES                  │
+│  > RESULT: MATCH FOUND                                       │
+│  > NEXT STEP: entrar em contato  ->  secao 07 // LET'S TALK  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
