@@ -30,21 +30,21 @@
 <div align="center">
 
 ```text
-                                    ┌──────────────────────────────────────────────────────────────┐
-                                    │        recruiter@github:~$ ./hire --candidate thayla         │
-                                    ├──────────────────────────────────────────────────────────────┤
-                                    │                                                              │
-                                    │  [OK] Full stack: API Laravel + app Flutter + painel web     │
-                                    │  [OK] IoT: ESP32 + RFID integrado a uma API REST             │
-                                    │  [OK] Projeto real de ponta a ponta (TCC 📦GeoSync )         |
-                                    │  [OK] Resolve problemas sozinha e aprende rapido             │
-                                    │  [OK] Disponivel: estagio remoto ou presencial (Tambau-SP)   │
-                                    │                                                              │
-                                    │  > RESULT: MATCH FOUND                                       │
-                                    │  > NEXT STEP: entrar em contato  ->  secao 07 // LET'S TALK  │
-                                    │                                                              │
-                                    └──────────────────────────────────────────────────────────────┘
-```
+                                      ┌──────────────────────────────────────────────────────────────┐
+                                      │        recruiter@github:~$ ./hire --candidate thayla         │
+                                      ├──────────────────────────────────────────────────────────────┤
+                                      │                                                              │
+                                      │  [OK] Full stack: API Laravel + app Flutter + painel web     │
+                                      │  [OK] IoT: ESP32 + RFID integrado a uma API REST             │
+                                      │  [OK] Projeto real de ponta a ponta (TCC 📦GeoSync )         |
+                                      │  [OK] Resolve problemas sozinha e aprende rapido             │
+                                      │  [OK] Disponivel: estagio remoto ou presencial (Tambau-SP)   │
+                                      │                                                              │
+                                      │  > RESULT: MATCH FOUND                                       │
+                                      │  > NEXT STEP: entrar em contato  ->  secao 07 // LET'S TALK  │
+                                      │                                                              │
+                                      └──────────────────────────────────────────────────────────────┘
+  ```
 
 </div>
 
