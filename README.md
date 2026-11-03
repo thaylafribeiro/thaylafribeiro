@@ -1,226 +1,143 @@
-
-<!--
-  THAYLA RIBEIRO | DEVELOPER PROFILE
-  Dark Premium | Blue | Violet
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=160&section=header&text=Thayla%20Ribeiro&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20IoT&descAlignY=60&descSize=16" alt="Thayla Ribeiro"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Estudante+de+Desenvolvimento+de+Software;Web+%7C+Mobile+%7C+Internet+das+Coisas;Transformando+ideias+em+sistemas+reais" alt="Apresentação"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=THAYLA+RIBEIRO;SOFTWARE+DEVELOPER;BUILDING+DIGITAL+EXPERIENCES" alt="Apresentação"/>
+<a href="https://wa.me/5519994187179" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/SEU-USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-# Thayla Ribeiro
-
-### `Software Developer` · Web · Mobile · IoT
-
-<p>
-  Desenvolvendo soluções digitais com propósito, tecnologia e criatividade.
-</p>
+</div>
 
 <br/>
 
-<a href="https://wa.me/5519994187179" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-Fale%20comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Entre em contato pelo WhatsApp"/>
-</a>
+## 👩‍💻 Sobre mim
 
-<br/><br/>
+Sou **estudante e desenvolvedora em formação**, com interesse em criar aplicações que unam **funcionalidade, boa arquitetura e uma ótima experiência do usuário**.
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-161B22?style=flat-square&labelColor=161B22&color=2563EB"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-161B22?style=flat-square&labelColor=161B22&color=7C3AED"/>
+- 🌐 Desenvolvo aplicações **web** e **mobile**
+- 🔌 Crio projetos de **automação** e **integração entre hardware e software**
+- 📡 Exploro soluções em **Internet das Coisas (IoT)**
+- 📚 Sigo em constante aprendizado: *Learn. Build. Improve.*
 
-</div>
+<br/>
 
----
-
-## `01` — About me
-
-Sou estudante e desenvolvedora em formação, interessada em criar aplicações que combinem **funcionalidade, boa arquitetura e experiência do usuário**.
-
-Trabalho com desenvolvimento web e mobile, explorando diferentes tecnologias para transformar ideias em sistemas reais. Também desenvolvo projetos que envolvem automação, integração entre hardware e software e Internet das Coisas.
-
-```javascript
-const thayla = {
-    area: "Software Development",
-
-    interests: [
-        "Web Development",
-        "Mobile Applications",
-        "Internet of Things",
-        "Software Engineering"
-    ],
-
-    technologies: {
-        frontend: ["HTML", "CSS", "JavaScript", "React"],
-        backend: ["PHP", "Laravel"],
-        mobile: ["Flutter", "Dart"],
-        database: ["MySQL"],
-        tools: ["Git", "GitHub", "VS Code"]
-    },
-
-    mindset: "Learn. Build. Improve."
-};
-```
-
----
-
-## `02` — Tech stack
+## 🛠️ Tecnologias
 
 <div align="center">
 
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
-
-<br/><br/>
-
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Backend"/>
-
-<br/><br/>
-
-### MOBILE DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile"/>
-
-<br/><br/>
-
-### DATABASE & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="Ferramentas"/>
-
-<br/><br/>
-
-### INTERNET OF THINGS
-
-<img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
-<img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=internetofthings&logoColor=58A6FF"/>
+| Área | Tecnologias |
+|:---:|:---:|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" height="40"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" height="40"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="40"/> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40"/> |
+| **IoT** | <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="40"/> <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C" height="40"/> |
 
 </div>
 
----
+<br/>
 
-## `03` — Featured projects
+## 🚀 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ GeoSync
+### 📦 GeoSync
+**Rastreamento inteligente de cargas**
 
-**Intelligent Cargo Tracking**
+Sistema de monitoramento logístico para transporte rodoviário, com foco em visibilidade das operações, acompanhamento de mercadorias e identificação de ocorrências.
 
-Sistema de monitoramento logístico para o transporte rodoviário, com foco na visibilidade das operações, acompanhamento de mercadorias e identificação de ocorrências.
-
-**Core features**
-
-- Monitoramento de entregas.
-- Rastreamento de mercadorias.
-- Alertas de ocorrências logísticas.
-- Comunicação entre empresa e motorista.
-- Aplicação de conceitos de IoT.
+**Funcionalidades**
+- Monitoramento de entregas
+- Rastreamento de mercadorias
+- Alertas de ocorrências logísticas
+- Comunicação entre empresa e motorista
+- Aplicação de conceitos de IoT
 
 **Stack**
-
-`Laravel` `PHP` `Flutter` `Dart` `MySQL`
+<br/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ SafeFactory
+### 🏭 SafeFactory
+**Segurança industrial com IoT**
 
-**Industrial Safety · IoT**
+Projeto de segurança industrial que combina identificação por RFID e sensores de gases para monitorar as condições ambientais.
 
-Projeto de segurança industrial que combina identificação por RFID e sensores de gases para auxiliar no monitoramento das condições ambientais.
-
-**Core features**
-
-- Identificação de usuários por RFID.
-- Monitoramento por sensores.
-- Alertas visuais e sonoros.
-- Integração entre hardware e software.
+**Funcionalidades**
+- Identificação de usuários por RFID
+- Monitoramento por sensores
+- Alertas visuais e sonoros
+- Integração entre hardware e software
 
 **Stack**
-
-`ESP32` `Arduino` `RFID` `Sensors`
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RFID-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sensores-374151?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-> Os projetos apresentados fazem parte da minha experiência acadêmica e prática. Suas funcionalidades e tecnologias podem evoluir durante o desenvolvimento.
-
----
-
-## `04` — GitHub analytics
-
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/SEU-USUARIO">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak"/>
-
-</div>
-
----
-
-## `05` — Development principles
-
-<div align="center">
-
-| PRINCIPLE | APPROACH |
-|:---|:---|
-| `01` · Code | Código organizado e de fácil manutenção |
-| `02` · Design | Interfaces intuitivas e consistentes |
-| `03` · Learning | Evolução técnica contínua |
-| `04` · Innovation | Tecnologia aplicada a problemas reais |
-
-</div>
-
----
-
-## `06` — Vamos conversar?
-
-<div align="center">
-
-Tem uma ideia, uma oportunidade ou quer conversar sobre tecnologia e desenvolvimento?
+> 💡 Projetos desenvolvidos durante a formação acadêmica e prática. Funcionalidades e tecnologias podem evoluir ao longo do desenvolvimento.
 
 <br/>
 
-<a href="https://wa.me/5519994187179" target="_blank">
-  <img src="https://img.shields.io/badge/CHAME%20NO%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale comigo pelo WhatsApp"/>
-</a>
+## 📊 Estatísticas no GitHub
 
-<br/><br/>
+<div align="center">
 
-<a href="https://wa.me/5519994187179" target="_blank">
-  <img src="https://img.shields.io/badge/INICIAR%20CONVERSA-128C7E?style=flat-square&logo=whatsapp&logoColor=white" alt="Iniciar conversa"/>
-</a>
+<img height="165" src="https://gh-stats.work/api?username=thaylafribeiro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://gh-stats.work/api/top-langs/?username=thaylafribeiro&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas"/>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3"/>
-
-<br/>
-
-<strong>THAYLA RIBEIRO</strong>
-
-<br/>
-
-<sub><code>Learn continuously. Build intelligently. Create impact.</code></sub>
+<img width="90%" src="https://streak-stats.demolab.com/?user=thaylafribeiro&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=BC8CFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições"/>
 
 </div>
 
+<br/>
 
+## 🎯 Princípios de desenvolvimento
+
+<div align="center">
+
+| | Princípio | Como aplico |
+|:---:|:---|:---|
+| 🧩 | **Código** | Organizado, legível e de fácil manutenção |
+| 🎨 | **Design** | Interfaces intuitivas e consistentes |
+| 📈 | **Aprendizado** | Evolução técnica contínua |
+| 💡 | **Inovação** | Tecnologia aplicada a problemas reais |
+
+</div>
+
+<br/>
+
+## 📬 Vamos conversar?
+
+<div align="center">
+
+Tem uma ideia, uma oportunidade ou quer trocar uma ideia sobre tecnologia?
+
+<br/>
+
+<a href="https://wa.me/5519994187179" target="_blank"><img src="https://img.shields.io/badge/Chame%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Fale comigo pelo WhatsApp"/></a>
+
+<br/><br/>
+
+<sub><code>Learn continuously · Build intelligently · Create impact</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" alt="Rodapé"/>
+
+</div>
